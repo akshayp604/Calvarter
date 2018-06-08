@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CalVerter</string>
+    <string-array name="units">
+        <item>Weight</item>
+        <item>Temperature</item>
+        <item>Length</item>
+        <item>Power</item>
+        <item>Energy</item>
+        <item>Velocity</item>
+        <item>Area</item>
+        <item>Volume</item>
+    </string-array>
+    <string-array name="area">
+        <item>Square</item>
+        <item>Rectangle</item>
+        <item>Parallelogram</item>
+        <item>Triangle</item>
+        <item>Trapezoid</item>
+        <item>Circle</item>
+        <item>Ellipse</item>
+        <item>Cube</item>
+        <item>Sphere</item>
+        <item>Cylinder(Surface of Side)</item>
+        <item>Cylinder(Whole Surface)</item>
+        <item>Cone</item>
+    </string-array>
+    <string-array name="volume">
+        <item>Cube</item>
+        <item>Rectangular Prism</item>
+        <item>Sphere</item>
+        <item>Cylinder</item>
+        <item>Cone</item>
+        <item>Pyramid</item>
+    </string-array>
+    <string-array name="peri">
+        <item>Square</item>
+        <item>Rectangle</item>
+        <item>Parallelogram</item>
+        <item>Triangle</item>
+        <item>Trapezoid</item>
+        <item>Circle</item>
+    </string-array>
+    <string-array name="draweritems">
+        <item>Calculator</item>
+        <item>Unit Converter</item>
+        <item>Base converter</item>
+        <item>Body Mass Index</item>
+        <item>Geometric Calcuator</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>

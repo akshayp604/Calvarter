@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579b</color>
+    <color name="colorPrimaryDark">#01579b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pad">#ffffff</color>
+    <color name="delc">#ffffff</color>
+    <color name="op">#ffffff</color>
+</resources>
